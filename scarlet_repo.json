@@ -1,7 +1,7 @@
 {
   "META": {
-    "repoName": "azu0609's repo",
-    "repoIcon": "https://azu0609.github.io/repo/repo.logo.png"
+    "repoName": "gameboy200's repo (forked from azu0609's repo",
+    "repoIcon": "repo.logo.png"
   },
   "Tweaked": [
     {
@@ -187,4 +187,56 @@
       }
     }
   ]
+  "KFD": [
+     {
+    "name": "misaka",
+    "version": "2.0 beta 1",
+    "down": "https://github.com/iOS16Tweaks/JBApps/raw/main/misaka_v2.0.2.ipa",
+    "dev": "Straight-tamago",
+    "icon": "https://media.idownloadblog.com/wp-content/uploads/2023/08/Misaka-v2.0-app-icon.jpg",
+    "category": "KFD",
+    "description": "Misaka IPA app is a new jailbreak-like application developed by the Misaka team, providing customization and modification of the iOS system for devices that support macdirtycow and KFD",
+    "bundleID": "app.misaka.",
+    "screenshots" [
+        "https://media.idownloadblog.com/wp-content/uploads/2023/08/Misaka-v2.0-app-icon.jpg"
+    ],
+    "contact": {
+        "web": "https://bento.me/straight-tamago",
+        "twitter": "https://twitter.com/straight_tamago"
+    }
+    
+     {
+    "name": "cluckabunga/chicken butt",
+    "version": "2.0.2",
+    "down": "https://github.com/leminlimez/Chicken-Butt/releases/download/v1.1/Chicken.Butt.25ull.ipa",
+    "dev": "LeminLimez",
+    "icon": "https://onejailbreak.com/site/assets/files/1637/chicken_butt.766x0.webp",
+    "category": "KFD",
+    "description": "Cowabunga for KFD",
+    "bundleID": "app.misaka.",
+    "screenshots" [
+        "https://onejailbreak.com/site/assets/files/1637/chicken-butt-ios.650x0-is.webp"
+    ],
+    "contact": {
+        "web": "https://github.com/leminlimez/Chicken-Butt",
+        "twitter": "https://twitter.com/LeminLimez?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    }
+      {
+    "name": "KFDFontOverwrite",
+    "version": "1.2.0",
+    "down": "https://github.com/hrtowii/WDBFontOverwrite/releases/download/v2.2.0/KFDFontOverwriteNon14Pro.ipa",
+    "dev": "hrtowii",
+    "icon": "https://github.com/hrtowii/WDBFontOverwrite/blob/main/WDBFontOverwrite/Assets.xcassets/AppIcon.appiconset/1024%201.png?raw=true",
+    "category": "KFD",
+    "description": "WDBFontOverwrite for KFD",
+    "bundleID": "com.WDBFontOverwrite.app.",
+    "screenshots" [
+        "https://user-images.githubusercontent.com/704768/209606970-a382c273-bdcb-425c-bca1-1b6f9b31862f.png"
+    ],
+    "contact": {
+        "web": "https://hrtowii.github.io/index.html",
+        "twitter": "https://instagram.com/htrowii"
+    } 
+
+   ]
 }
