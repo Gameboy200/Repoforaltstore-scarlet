@@ -1,7 +1,7 @@
 <div align="center">
     <img src="repo.logo.png">
     <h1>gameboy200's repo (forked from azu0609's repo)</h1>
-    <p>Personalized repo for me. hosted in github pages. feel free to send PR!</p>
+    <p>Personalized repo for anyone. hosted in github pages. feel free to send PR!</p>
     <hr />
     <a href="https://azu0609.github.io/repo/url_handler.html">
         <img src="https://img.shields.io/badge/Altstore-Altstore.svg?label=Add%20To&logo=&style=for-the-badge&color=1B8085">
