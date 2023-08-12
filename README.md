@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://azu0609.github.io/repo/repo.logo.png">
+    <img src="repo.logo.png">
     <h1>gameboy200's repo (forked from azu0609's repo)</h1>
     <p>Personalized repo for me. hosted in github pages. feel free to send PR!</p>
     <hr />
